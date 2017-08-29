@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testCurve</string>
+
+    <string name="sum">The sum is %1$d</string>
+</resources>
